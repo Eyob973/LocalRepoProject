@@ -1,1 +1,1 @@
-how to do this
+Hello, Git and GitHub!
